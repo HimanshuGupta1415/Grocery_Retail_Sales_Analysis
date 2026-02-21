@@ -5,6 +5,10 @@ This project presents an interactive Power BI dashboard designed to analyze reta
 
 🔷 Project Title UrbanCart Retail Sales Analytics Dashboard (Power BI + SQL)
 
+## 📊 Dashboard Preview
+
+![Dashboard](Urbancart%20Analysis%20image.png)
+
 🧩 Problem
 
 Retail businesses often struggle to track and analyze large volumes of sales data across different product categories, outlet types, and locations. Without a centralized dashboard, it becomes difficult to identify sales trends, monitor performance, and make data-driven decisions.
