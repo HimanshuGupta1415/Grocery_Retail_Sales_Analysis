@@ -9,6 +9,13 @@ This project presents an interactive Power BI dashboard designed to analyze reta
 
 ![Dashboard](Urbancart%20Analysis%20image.png)
 
+## 📂 Power BI File
+
+You can download the Power BI template file here:  
+👉 [Download Dashboard](retail_dashboard.pbit)
+
+⚠️ Note: The dataset is not included. Please connect your own dataset when opening the .pbit file.
+
 🧩 Problem
 
 Retail businesses often struggle to track and analyze large volumes of sales data across different product categories, outlet types, and locations. Without a centralized dashboard, it becomes difficult to identify sales trends, monitor performance, and make data-driven decisions.
