@@ -29,6 +29,15 @@ Interactive dashboard with key KPIs: Total Sales Average Sales Number of Items A
 
 Product categories Outlet type and size Location-based analysis User-friendly filters and slicers for dynamic insights
 
+## 🧮 SQL Queries
+
+- Used SQL for data extraction and transformation  
+- Applied aggregations (SUM, AVG, COUNT) to calculate KPIs  
+- Performed grouping by outlet type, item type, and location  
+- Created queries for sales trends and percentage contribution  
+
+![SQL Output](sql_output_sample.png)
+
 📈 Business Impact
 
 Enabled quick identification of high-performing products and outlets Helped in analyzing customer preferences and sales trends Supported data-driven decision-making for inventory and sales strategy Improved visibility into overall business performance through a single dashboard
